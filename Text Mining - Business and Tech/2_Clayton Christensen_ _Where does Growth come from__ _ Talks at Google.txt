@@ -1,0 +1,3842 @@
+
+
+MATT: Professor
+Christensen is one
+
+of the most thoughtful
+and interesting
+
+and engaged people that
+I've had a chance to work
+
+with in my time at Google.
+
+And I'm really, really
+excited to allow all of us
+
+to share a little
+bit of that today.
+
+So without further ado,
+Professor Clayton Christensen.
+
+[APPLAUSE]
+
+
+
+CLAYTON CHRISTENSEN:
+You're very kind, Matt.
+
+And I'm just delighted
+that you guys would be it
+
+worth your while to come
+here and talk about some
+
+of the things that
+I want to propose.
+
+
+
+There are three main
+objectives in my talk.
+
+The first one is, my gosh,
+Google is in a wonderful spot.
+
+And almost never in
+the history of mankind
+
+has anybody seen to be
+so successful in much
+
+that you're trying to do.
+
+And the reason why
+I worry about that
+
+is that success is
+very hard to sustain.
+
+And if you look across the sweep
+of business history, almost
+
+every company which
+at one point were
+
+widely regarded as
+unassailably successful,
+
+10 or 20 years later, you find
+them in the middle of the pack
+
+or the bottom of the heap.
+
+And I'll get into a little
+bit about that later.
+
+But the scary
+thing about this is
+
+that it's actually
+good management that
+
+causes successful
+companies to stumble.
+
+And so, the solutions
+that you might think about
+
+are not solutions at all.
+
+So anyway, that's
+one reason why I
+
+came is to just share
+the despair that
+
+comes with success.
+
+[LAUGHTER]
+
+
+
+And then, the second one
+is that growth is actually
+
+a huge issue everywhere.
+
+Not just American companies, but
+Japanese and European companies
+
+are even more
+desperate for growth.
+
+In China, which
+has been on a roll
+
+for over the last 10 years,
+find themselves not able
+
+to grow there.
+
+And politicians are
+worried that we can't grow.
+
+And they have no
+idea where growth
+
+comes from at the level
+of national economies.
+
+And if our nations
+are not prosperous,
+
+then companies find it
+hard to be prosperous.
+
+So that's what I want to talk
+about if that's all right.
+
+And what I'd like to
+offer to you, which
+
+is my third objective
+today, is that I
+
+want to talk to you about
+theories about management.
+
+And the word "theories" gets
+a bum wrap with managers,
+
+because the word
+"theory" is associated
+
+with the word "theoretical,"
+which connotes impractical.
+
+But a theory is a
+statement of causality.
+
+It's a statement of what
+causes what and why.
+
+And when you think
+about it in those terms,
+
+you as technologists or
+managers are voracious consumers
+
+of theory.
+
+Because every time
+you take an action,
+
+it's predicated upon a
+belief that, if you do this,
+
+you'll get the
+result that you want.
+
+And every time you
+put a plan into place,
+
+it's predicated upon a set
+of theories, which tells you,
+
+if you do these things,
+you'll be successful.
+
+But most of the people aren't
+even aware of the theories
+
+that they use.
+
+And many times, the
+theories that you use
+
+are destructive rather
+than productive.
+
+
+
+So this is why I have spent
+much of my academic life trying
+
+to understand theories
+about management.
+
+So there's not one grand
+theory of management
+
+that solves all
+problems of managers.
+
+But there really are theories
+about different dimensions
+
+of a manager's job,
+which are quite helpful.
+
+And you'll see some of those,
+as I'll present them today.
+
+And it is as if, if
+you came to my office,
+
+there would be a shelf there.
+
+And on the shelf will be a set
+of theories about management.
+
+And some of them have
+emerged from my own research.
+
+And next to them are
+theories about management
+
+that other members of
+our faculty have offered.
+
+And there are a few
+slots on the shelf that
+
+aren't filled, because
+there are really
+
+important theories about
+management for which nobody
+
+has provided a theory yet.
+
+So for example, metrics
+and how you measure
+
+things is a huge deal.
+
+And yet, there isn't a
+theory about metrics.
+
+But with these as a
+set of building blocks,
+
+if somebody can then come
+to us with a problem,
+
+rather than giving them
+my opinion about how
+
+to solve the problem, instead
+what we're able to do is say,
+
+well if that's the
+problem, you know,
+
+then we have a theory
+on the shelf called
+
+the theory of disruption.
+
+And I bet you that
+if we put that theory
+
+on like a set of lenses
+and examine this problem,
+
+we might be able to
+understand what's going on.
+
+And so that's what I want
+to do is explain to you
+
+a set of problems for which
+good theories might help you.
+
+And I picked these ones
+because I think you probably
+
+are facing similar problems.
+
+So if you think about
+our economy much,
+
+you'd realize that occasionally
+we have a recession.
+
+And when our economy
+goes into recession,
+
+we'll hit bottom at some point.
+
+And then, it takes some
+time before companies have
+
+to start hiring people again.
+
+Because the people
+who are on board
+
+can satisfy the demand
+of getting more orders
+
+for a while.
+
+And we have had nine
+recessions since World War II.
+
+And in the first six of
+those nine recessions,
+
+on average, it took
+our economy six months
+
+from the point when they hit
+bottom to get to the point
+
+where they needed to
+hire more workers.
+
+But we had a recession
+in 1991, '92,
+
+where it took our economy 15
+months to get to the point
+
+where they needed to
+hire people again.
+
+Then, we had a
+recession in 2001, '02.
+
+So it took us 15 months in that
+recession to get to the point
+
+where they had to hire people.
+
+Then, we had a recession in '01,
+'02 where it took our economy
+
+39 months, in aggregate,
+to get to the point where
+
+they're hiring more people.
+
+Then the most recent
+recession it took us
+
+our economy nearly six
+years to get to the point
+
+where we needed to
+hire more people.
+
+And what seems to be
+happening increasingly
+
+is these rebounds appear
+to be financial, not
+
+real in character.
+
+So the people who have money
+get a lot of money a lot faster.
+
+But the rest of
+us, there are not
+
+jobs into which we can
+be slotted in anymore.
+
+And something fundamentally has
+gone wrong with our economy.
+
+And what we see
+in the economy is
+
+a summary of what's going on
+in most companies as well.
+
+So I want to propose
+that there are four
+
+different types of innovations.
+
+And the reason why I'd
+like to focus on innovation
+
+is because, whenever a
+company makes an investment,
+
+they invest in an innovation
+of one sort or another.
+
+And so, what I want to
+do is describe these four
+
+types of innovations and
+then teach a little bit more
+
+about whether and why and
+where they will create growth.
+
+There are potential
+products, meaning nobody's
+
+figured out what these are yet.
+
+Then the second one are
+sustaining innovations that
+
+make those products better.
+
+The third are disruptive
+products that grow markets.
+
+And then, the fourth are
+efficiency innovations
+
+in which they sell them off in
+order to get their money back.
+
+So let me start with
+potential innovations.
+
+
+
+Almost any study
+about innovation
+
+will say that, of all of
+the products whose product
+
+development are initiated in a
+company, only about 15% to 25%
+
+of them will become
+financially successful.
+
+And it's broadly viewed that
+innovation is a crapshoot.
+
+The more projects you launch,
+the more success you'll be.
+
+But in its end,
+it's a crapshoot.
+
+And what we've concluded
+is that it's not true.
+
+The reason why it appears that
+we can't predict in advance
+
+whether a customer will buy the
+products that we're developing
+
+is that people at business
+schools like Harvard
+
+teach marketing
+in a perverse way.
+
+And in particular, we've decided
+that understanding the customer
+
+is the wrong unit of analysis.
+
+So to illustrate that, just
+look at me for a second
+
+if you wouldn't mind.
+
+My name is Clayton Christensen.
+
+I am 64-years old unfortunately.
+
+I used to be 6 feet 8
+inches, unfortunately.
+
+And I now am 6 feet 6
+inches, unfortunately.
+
+And I married a wonderful
+wife, fortunately.
+
+We have five kids.
+
+The third of them,
+Michael, unfortunately
+
+came here to Stanford.
+
+[LAUGHTER]
+
+And I have all kinds of other
+characteristics and attributes,
+
+as you can see.
+
+But none of my
+characteristics or attributes
+
+have not yet caused me to buy
+the "New York Times" today.
+
+There might be a correlation
+between the propensity
+
+that I will buy the
+"New York Times."
+
+But my characteristics
+don't cause me to buy it.
+
+Nor do our characteristics
+and attributes
+
+cause us to buy any
+product or service.
+
+And yet, almost all
+of the work that we
+
+do in assessing
+market potential,
+
+we look at the
+characteristics or attributes
+
+of the potential customers.
+
+And a better way to
+think of it, we decided,
+
+is that, darn it, every
+day stuff happens to us.
+
+Jobs arise in our life.
+
+And when we these
+jobs arise, we need
+
+to find some way to
+get the jobs done.
+
+And some of the jobs are
+simple incremental things
+
+that happen regularly.
+
+Others are dramatic and
+important breakthrough
+
+problems.
+
+But whenever we
+have a job to do,
+
+we have to find something
+and pull it into our lives
+
+in order to get the job done.
+
+And what we decided is
+understanding the job
+
+is the critical key
+to develop products
+
+that we can predictably make
+and find the customers to buy.
+
+So to illustrate this
+point, a number of years
+
+ago, as this idea of
+the job to be done
+
+was emerging from our
+research, McDonald's was
+
+trying to decide how
+they could improve
+
+the sales of their milkshakes.
+
+And as some of you might
+know, McDonald's is
+
+a very sophisticated
+marketing company.
+
+And they have data out the
+gazoo about every dimension
+
+of what they're doing.
+
+And so, when you
+go in, on the menu,
+
+behind that there is a profile
+of the demographic profile
+
+of the quintessential
+customer that
+
+likes to buy that
+product when they come.
+
+And so, what
+they've done is they
+
+have these cohorts
+of people who are
+
+the quintessential milkshake
+customers, for example.
+
+And it turns out that I
+fit that profile perfectly.
+
+So they would take people
+like me into conference rooms
+
+and ask, can you
+just help us how
+
+we could improve the milkshake
+so you'd buy more of them?
+
+The customers would
+provide very clear guidance
+
+about how to improve it.
+
+They would then improve the
+product on those dimensions.
+
+And it had no impact or sales
+whatsoever on the product.
+
+So what we decided is that
+that's not the right way
+
+to frame it.
+
+But rather, there's
+got to be a job
+
+out there somewhere that
+people find themselves needing
+
+to get done for which they go to
+McDonald's to hire a milkshake.
+
+And we need to understand
+what the job is.
+
+So one of our colleagues
+stood in a restaurant one
+
+day for 18 hours and just
+took very careful notes on,
+
+what time did they
+buy these milkshakes?
+
+What was he wearing?
+
+Was he alone or
+with other people?
+
+Did he buy anything else
+or just the milkshake?
+
+Did they eat it in the
+restaurant or get in the car
+
+and go off with it?
+
+And it turned out that
+about 50% of the customers
+
+bought the milkshake
+before 8:30 in the morning.
+
+It was the only
+thing they bought.
+
+They were always alone.
+
+And they always got in the
+car and drove off with it.
+
+So we decided we need to
+understand, what was this job?
+
+So we came back the next day
+and we positioned ourselves
+
+outside the
+restaurant so that we
+
+could confront these
+people as they were
+
+emerging with their milkshake.
+
+[LAUGHTER]
+
+And in language that they could
+understand, we asked them,
+
+I got a problem with
+your behavior here.
+
+What job were you trying to do
+that caused you to come here
+
+to hire this milkshake?
+
+And as they would
+struggle to answer,
+
+we'd try to help them by
+asking, well, look, think
+
+about the last time you
+were in the same situation,
+
+needing to get
+the same job done,
+
+but you didn't come here
+to hire a milkshake.
+
+What did you hire to do the job?
+
+And it turned out that they
+all had the same job to do.
+
+And that is they had a long
+and boring drive to work.
+
+And gosh, one hand had
+to be on the wheel.
+
+But somebody gave
+me another hand.
+
+And there isn't anything
+in it to drive with.
+
+And I just need to do
+something while I'm driving.
+
+And I'm not hungry yet,
+but I know that I'll
+
+be hungry by 10 o'clock.
+
+So I also need something that
+will just go thunk, and stay
+
+there till 10 o'clock.
+
+So when I have this problem
+to do, what else do I hire?
+
+And one guy said, I never
+thought of it in these terms.
+
+But last Friday, I hired
+a banana to do the job.
+
+Take my word for it.
+
+Never hire bananas.
+
+They're gone in
+less than a minute.
+
+I'm hungry by 7:30.
+
+Another guy said, you promise
+not to tell my wife please.
+
+But I hire donuts a lot
+to get this job done.
+
+But they actually
+don't do the job well.
+
+I promised my wife that
+I'm going to lose money.
+
+But I add it.
+
+And they crumble
+all over my clothes.
+
+And my fingers get gooey.
+
+And I put that on the wheel.
+
+And another guy said, yeah,
+I do bagels sometimes.
+
+But geez, the bagels are
+so dry and tasteless.
+
+I have to steer the
+car with my knees
+
+while I put the cream cheese on.
+
+And then, if the phone
+rings, I got three problems
+
+and two hands.
+
+And one guy said, I hired a
+Snickers bar to do the job.
+
+But I felt so guilty I've
+never heard Snickers again.
+
+But let me tell you,
+whenever I have this job
+
+and I come here to hire
+McDonald's milkshakes,
+
+it is so viscous, it
+takes me 23 minutes
+
+to suck it up that
+thin little straw.
+
+Who knows what the
+ingredients are.
+
+I don't care.
+
+All I know is it's in
+my stomach all morning.
+
+And it fits right
+in my cup holder.
+
+And it turns out the milkshake
+does the job better than any
+
+of the competitors.
+
+And the competitors are
+not Burger King milkshakes.
+
+But it's bananas and donuts
+and bagels and Snickers bars
+
+and coffee and a
+few other things.
+
+And then, it turned out
+that in the afternoon,
+
+it was hired for a
+very different job.
+
+And that is somebody
+is a parent,
+
+just needs to have a
+sweet uncluttered time
+
+to talk about whatever's
+on the mind of their child.
+
+And they hire the
+milkshakes to do this job.
+
+And it does that job very well.
+
+But it's a very different job
+than what the morning job is.
+
+And it turns out that
+this is not unusual
+
+that almost always,
+Peter Drucker said,
+
+the customer rarely
+buys what the company
+
+thinks it's selling them.
+
+And that's why I
+said at the beginning
+
+that understanding the job is
+what's critical in developing
+
+successful products.
+
+The customer is the
+wrong unit of analysis.
+
+Because the customer
+finds herself
+
+needing to have
+different jobs to be
+
+done over the course of a
+day or a week or a month.
+
+
+
+So there's a job out
+there somewhere near here
+
+that needs to get done.
+
+And people find
+themselves needing
+
+to get this job's job done
+in different frequencies.
+
+And that is, I need
+to get this from here
+
+to there as fast as possible
+with perfect certainty.
+
+How many of you
+have found that you
+
+needed to get this job
+done in the last year?
+
+Almost everybody.
+
+It turns out that Julius
+Caesar had this job to do.
+
+But when he had
+the job, he could
+
+hire a horseman and a
+chariot to get the job done.
+
+Queen Victoria had the
+very same job to do.
+
+But she could hire the
+telegraph and the railroad
+
+to get the job done.
+
+And Winston Churchill could
+hire a airplane to get it done.
+
+And now, our leaders
+can hire DHL.
+
+But the job itself has been
+fundamentally unchanged
+
+over these centuries.
+
+And that's a
+characteristic of most jobs
+
+that they are very
+stable over time.
+
+But the technology that we
+could hire to get the job done
+
+changes at a scaring
+rate in some times.
+
+And so, if we think of the
+business that we're in as,
+
+I'm in the business of DHL
+and I compete against FedEx,
+
+my life is very unpredictable.
+
+But if I think of the job to
+be done as the core business,
+
+then life is very stable.
+
+And it makes it a lot easier
+for us to predict what
+
+will be the next technology.
+
+
+
+Let me just
+describe-- I'm sorry.
+
+I need to tell you a
+couple things about myself.
+
+I'm stumbling
+around, because I've
+
+had a couple of rounds of
+chemotherapy for cancers
+
+that I've had.
+
+And one of the side effects
+is that I can't feel my feet.
+
+
+
+So when I'm looking
+at you, I don't
+
+know if my feet are
+over there or here.
+
+And then, I had a stroke.
+
+A clot came from somewhere
+and lodged itself right there
+
+in my brain.
+
+And it formulated the portion
+of my speech where we formulate.
+
+It killed the
+portion of my brain
+
+where you formulate speech.
+
+This happened about
+four years ago.
+
+And just like that, I
+lost my ability to speak.
+
+And I've been trying to
+learn how to speak again.
+
+And there's a program called
+Rosetta Stone for English.
+
+Turns out, it is very good.
+
+
+
+But you see in my
+language, sometimes, I'm
+
+struggling to come
+up with the word.
+
+And that's because I lost it.
+
+And I'm learning how to
+speak from the other side
+
+of my brain.
+
+And I noticed that
+I notice that I'm
+
+speaking to the floor a lot.
+
+And the reason why is,
+if I look at the floor,
+
+I can focus on what the
+next sentence has to be.
+
+And if I look at
+you, you distract me.
+
+So it's not that I have
+become shy all of a sudden.
+
+So I apologize for that.
+
+Anyway, there is an architecture
+to every job to be done.
+
+So the fundamental
+foundation is there
+
+is a job that I
+need to know, given
+
+the situation that I'm in.
+
+And that's an important reason
+why understanding the customer
+
+is the wrong unit of analysis.
+
+Because the
+situation that I'm in
+
+has a huge impact on
+the nature of the job.
+
+And every job has a
+functional and emotional
+
+and a social
+dimension to the job.
+
+And the mix of those three
+depends upon the application
+
+of the situation they're in.
+
+If we understand
+what the job is,
+
+then we can ask
+the next question.
+
+So what are the experiences
+in purchase and use
+
+that we need to provide in
+order to do the job perfectly?
+
+And if we understand what
+those experiences are,
+
+then we know what to integrate
+and how to integrate it
+
+so that we can provide
+the experiences needed
+
+to get the job done.
+
+And if we understand that, then
+it tells us what kind of brand
+
+we need to apply
+to that product.
+
+So that when they
+find themselves
+
+needing to get the
+job done, that brand
+
+pops into their head.
+
+So to summarize why it's
+important-- the reason
+
+why we need to understand the
+opportunity in terms of the job
+
+rather than the customer.
+
+We need to understand what the
+job the customer needs to do.
+
+We need to understand how
+customers will choose us.
+
+And we also need to
+then be able to say
+
+what we can do that
+other people can't,
+
+which is how we integrate.
+
+And finally, how
+will everyone know
+
+what product does the job best.
+
+
+
+There's a job that
+arises in people's lives
+
+that happened to our son
+Mike when he came out here
+
+to start at Stanford.
+
+And after a couple
+days out here,
+
+he called Christine and me back.
+
+And he said, Mom and Dad,
+I found our apartment.
+
+And I need to furnish
+my apartment tomorrow.
+
+And so there's a job that
+Mike needed to be done.
+
+That is, I need to furnish
+my apartment tomorrow.
+
+When you find that you
+have that job to be done,
+
+is there a brand that
+pops into your mind that
+
+says, this is what I can do to
+get this job done perfectly?
+
+AUDIENCE: Ikea.
+
+CLAYTON CHRISTENSEN: Ikea.
+
+How many of you said the
+word Ikea in your mind
+
+when I told you
+what the job was?
+
+Look around.
+
+Isn't that interesting?
+
+And that's what we mean
+by a purpose brand.
+
+We need to organize our product
+around a job that does it
+
+so perfectly that anybody
+around the world who
+
+find themselves needing
+to get that job done,
+
+they think of Ikea.
+
+And Ikea has no competitors.
+
+There are other retailers
+that sell furniture.
+
+But there is nobody in the
+world that is organized
+
+around that job to be done.
+
+As a result, they are
+wildly profitable.
+
+And you think about
+this for a minute.
+
+Their owner is the third
+richest guy in the world.
+
+The quality of the furniture
+that they buy is marginal.
+
+And they sell it to the low end
+of humanity, college graduates.
+
+[LAUGHTER]
+
+And clearly, they are
+able to get a premium.
+
+Their customers are
+delighted to pay a premium
+
+price for their products.
+
+And the reason why
+that is is that,
+
+if you hire a product to get
+the job done and it doesn't
+
+do the job well, then
+you have to take it back
+
+or throw it away or give it or
+repair it and go out and find
+
+something that will
+do the job done well.
+
+And if that doesn't
+do well, then you
+
+have to test it and
+talk to your friends.
+
+And when you find
+yourselves buying a product
+
+and you find that it
+doesn't do the job well,
+
+it is very costly to find
+something that does it well.
+
+And that's the
+reason why it can be
+
+so profitable if you organize
+around a job to be done.
+
+Because the customers will
+be delighted to pay a premium
+
+price for your product, because
+the alternative of something
+
+that doesn't do the job
+well is very costly.
+
+
+
+So that's the first
+type of innovation.
+
+And we call them
+potential products,
+
+because we don't know their
+potential unless we understand
+
+the job to be done.
+
+The second type of
+innovation we call
+
+sustaining products that
+make good products better.
+
+And so, the day after we
+launch into a new product
+
+where you figured
+out there's a job
+
+to be done-- we have a
+product to do the job well--
+
+immediately, we start
+improving those products.
+
+And we call those products
+sustaining innovations.
+
+And they're important.
+
+When we look around the world
+as we walk around, almost all
+
+of the innovations that we
+see are sustaining products.
+
+They help companies keep
+their margins healthy.
+
+They are the mechanism
+for gaining market share.
+
+And those of you who
+are working on AdWords
+
+and other of your
+products are engaged
+
+in sustaining innovations.
+
+They're critical.
+
+But because they replace
+older products with new ones,
+
+they don't create growth.
+
+So imagine that I'm
+working for Toyota.
+
+And I convince you to buy
+the Prius, the hybrid car.
+
+Then, you won't
+be buying a Camry.
+
+If I sell you this
+year's best product,
+
+you won't buy last
+year's best product.
+
+And so, by their very nature,
+sustaining innovations,
+
+although they are important,
+are replicative in character.
+
+And most of what we think about
+as innovation are of this sort.
+
+So that's the second
+type of innovations.
+
+The third type of innovation
+we call disruption.
+
+And they create growth.
+
+So let me describe-- this
+is going to be a complicated
+
+slide before we're done.
+
+So I apologize in advance.
+
+But you'll see these
+three concentric circles.
+
+And what they're
+made to represent
+
+is that, actually,
+you can describe
+
+the history of any company in
+terms of these three circles.
+
+The innermost circle
+represents the customers
+
+who have the most money
+and the best access
+
+to a product or service.
+
+And then, as you go
+to the larger circles,
+
+they represent
+larger populations
+
+of people who have
+progressively less money.
+
+Almost always, industries
+begin in the center,
+
+because the first
+products and services
+
+are so costly and complicated
+that only people who
+
+have a lot of that are
+able to buy it and use it.
+
+So given that, I want to then
+describe what disruption is
+
+and why it creates growth.
+
+So I'll put on the vertical
+axis the performance of product
+
+or services over time.
+
+In every market there
+are two trajectories.
+
+The first one is,
+in every market
+
+there is a trajectory
+of improvement
+
+that customers are able
+to utilize in their lives.
+
+And we don't think
+about this very much,
+
+but our lives
+don't change a lot.
+
+And that's why this is so flat.
+
+Then, in every market,
+there's a different trajectory
+
+of improvement that
+innovating companies
+
+provide as they keep introducing
+better and better products.
+
+And the most important
+finding about this
+
+is this trajectory of
+technological progress
+
+almost always outstrips
+the ability of customers
+
+to use the product.
+
+And what it means is
+that a technology,
+
+at the beginning that
+isn't very good actually
+
+is prone to overshoot what
+those same customers are
+
+able to utilize at a
+later point in time.
+
+And there's not much
+gray hair in the room.
+
+But if you talk to somebody
+who was in their teens
+
+or 20s in the 1980s,
+we were, at that time,
+
+trying to figure out
+how to use, learning how
+
+to type on those early
+personal computers.
+
+About every 30 seconds, you had
+to stop and let the Intel 286
+
+chip catch up to you.
+
+Because the world's fastest
+microprocessor could not even
+
+keep pace with our fingers
+on the left-hand side.
+
+But if you take your
+computer apart now and just
+
+look at the
+microprocessor there,
+
+we utilize only about 15% of the
+capability of that processor.
+
+Intel has just way overshot what
+most customers in mainstream
+
+applications are able to use.
+
+Now, some of the innovations
+that help good products better
+
+are incremental innovations.
+
+Others are dramatic
+breakthrough innovations.
+
+But we use a word
+for them that we
+
+call sustaining innovations,
+which was on the last slide,
+
+because they're
+really important.
+
+Almost always,
+incumbent companies
+
+who are the leaders on the
+left-hand side of the diagram
+
+find themselves still
+on top of the industry
+
+when these battles of
+sustaining innovation are over.
+
+And if you want to
+start a new business
+
+and you want it to
+be successful and you
+
+think you can beat the
+incumbents by making better
+
+products that you could
+sell for better profits
+
+to the customers
+best competitors,
+
+they will kill you.
+
+And the evidence is
+really very strong.
+
+It doesn't matter how
+big or powerful you are.
+
+If you think that you can beat
+the incumbents in their market,
+
+they will kill you.
+
+And we could spend a
+lot of time on that.
+
+But there's another
+type of innovation
+
+that we call
+disruptive innovations.
+
+And disruptive
+innovations transform
+
+products which, in
+the middle, were
+
+too complicated and expensive.
+
+Now, disruption makes it so much
+more affordable and accessible
+
+that many more people are
+able to use those products
+
+or services.
+
+And almost always, entering
+companies typically
+
+win at disruption.
+
+And that's exactly
+what Google did, right?
+
+Because advertisement and
+finding customers and making
+
+things known-- you had
+to have a lot of money
+
+to play in that game.
+
+And then, your
+technologies and services
+
+made it so that
+anybody could find
+
+what they needed, whether
+you're a buyer or a seller.
+
+And you changed
+the world by making
+
+it affordable and accessible.
+
+And none of the incumbents
+who you guys beat
+
+are around today, because
+entrants typically win.
+
+And let me describe why.
+
+So living in Boston as we have
+for the last three decades,
+
+there was, in the 1970s and
+'80s a company there called
+
+Digital Equipment Corporation.
+
+And at that time, Digital was
+widely viewed as Google is now.
+
+It was the most widely admired
+company in all the world.
+
+And when you read
+explanations about why
+
+they were so successful,
+always success
+
+was attributed to the brilliance
+of their management team.
+
+Then, about 1988,
+Digital Equipment
+
+just fell off the cliff and
+began to unravel very quickly.
+
+When you then read
+explanations about why
+
+they had stumbled
+so badly, always it
+
+was attributed to the ineptitude
+of the management team.
+
+And the very same people
+were running the company.
+
+And for a while, I framed
+the problem as, gosh,
+
+I wonder how smart people
+could get so stupid so fast?
+
+And that's really
+the explanation
+
+that most people churn up
+when a company stumbles.
+
+That somehow, a company that
+the management team that
+
+had its act together at one
+point were out of their league
+
+at another time.
+
+But the real reason why the
+stupid manager hypothesis just
+
+didn't feel right is
+that every company that
+
+made the same class
+of computers-- we
+
+called them mini-computers.
+
+They were about the
+size of this pulpit.
+
+Every company that made
+that were killed in unison.
+
+It wasn't just
+Digital Equipment.
+
+But it was Data General,
+Prime, Wang, Nixdorf, Hewlett
+
+Packard, Honeywell.
+
+And you'd expect these
+people to collude on pricing
+
+occasionally.
+
+But to collude to
+collapse was a stretch.
+
+[LAUGHTER]
+
+And trying to understand
+why they'd do that
+
+was the puzzle that we had.
+
+So as we understood it
+a little bit better,
+
+we realized that
+this minicomputer
+
+was quite a complicated
+product that
+
+had to be sold direct
+to the customer.
+
+And the selling process involved
+a lot of training and support
+
+and service and software.
+
+And you had to have a cost
+like that in the business
+
+to play in the game.
+
+And that meant that
+Digital Equipment
+
+had to generate
+gross margins of 45%
+
+on computers that
+sold for $250,000.
+
+And that's how they
+made their money.
+
+Now, in their company,
+as in every company,
+
+there were people coming
+in through the 1980s
+
+all the time with
+ideas for new products
+
+that they could develop.
+
+Some of these entailed making
+better products than they
+
+had ever made before.
+
+In fact, these mini-computers
+would be so good
+
+that they could reach up
+into the tiers of the market
+
+where people historically had
+to buy mainframe computers.
+
+You looked at those
+business models.
+
+They could generate
+gross margins of 60%.
+
+And you could sell the products
+for twice as much money.
+
+So while the
+management was trying
+
+to decide if that's
+what they should do,
+
+there were other people
+coming in saying, ladies
+
+and gentlemen, you don't get it.
+
+Just look out the window.
+
+Everybody is buying
+personal computers,
+
+which was the case in
+the 1970s and '80s.
+
+But when management
+would look out, in fact,
+
+they could see that everybody
+was making personal computers.
+
+But there were a
+couple of other things
+
+that bothered them a lot.
+
+The first one-- do
+you remember how
+
+crummy those early
+personal computers were?
+
+Apple sold the Apple II
+as a toy to children.
+
+Not a single one of
+Digital's customers
+
+could even use a personal
+computer for the first 10 years
+
+that they were in
+the management.
+
+And then, they got no
+signal from their customers
+
+that the personal
+computer mattered.
+
+Because in fact,
+it didn't to them.
+
+And then, when you looked
+at the business details,
+
+it looked a lot worse.
+
+Because these small
+computers only
+
+generated gross margins of 40%.
+
+And they were headed
+to 20% quickly.
+
+And you could only earn
+those paltry percentages
+
+on computers that
+sold for $2,000 bucks.
+
+And so, the question that
+the management had to address
+
+was, gosh, guys,
+let's sit down here.
+
+I wonder if we should
+make better products
+
+that we could sell for better
+profits to our best customers?
+
+Alternatively, maybe we
+should make worse products
+
+that none of our
+customers would buy
+
+that would ruin our margins.
+
+What should we do?
+
+[LAUGHTER]
+
+And it is a very,
+very hard problem.
+
+And we call it the
+innovator's dilemma.
+
+Because doing the right
+thing is the wrong thing.
+
+And doing the wrong
+thing is the right thing.
+
+Can you think about where
+else you've seen this happen?
+
+Where somebody comes in
+with a simple product going
+
+after customers who historically
+couldn't have access to it
+
+and then it just grew up
+and killed the leaders?
+
+
+
+AUDIENCE: Blackberry.
+
+CLAYTON CHRISTENSEN: BlackBerry.
+
+Yeah, they just knocked off
+sitting down with a laptop.
+
+And then, Apple
+disrupted BlackBerry.
+
+And now, Samsung and
+Huawei are in the process
+
+of disrupting Apple.
+
+It's a good one.
+
+Where else have you seen it?
+
+AUDIENCE: Disc drives.
+
+CLAYTON CHRISTENSEN:
+Disc drives.
+
+The big ones disrupted
+by the little ones.
+
+And then, the flash
+disrupted disc drives.
+
+And almost all of them
+are out of business now.
+
+That's a good example.
+
+You guys look like you
+make a lot of money.
+
+[LAUGHTER]
+
+And I saw Lexus outside left
+and right in the parking lot.
+
+But that's not how Toyota
+entered America, with Lexuses.
+
+Toyota came in with a
+rusty little sub-compact
+
+in the 1960s called the Corona.
+
+And it was so much more
+affordable and accessible
+
+that the rebar of humanity,
+people we call college
+
+students, could own a car.
+
+And so, they came out here
+by making it affordable.
+
+And in the backplane,
+General Motors and Ford
+
+were making big
+cars for big people.
+
+And people would see
+Toyota coming in.
+
+And Toyota went from a Corona
+to a Tercel, Corolla, Camry,
+
+Avalon, 4-Runner, Sequoia,
+and then the Lexus.
+
+And as Toyota were
+coming up there
+
+going after new
+customers, they'd say,
+
+we ought to go
+get those buggers.
+
+And so, they'd design
+a Pinto or a Chevette
+
+and try to sell subcompacts
+into the marketplace.
+
+But then, their finance
+people would look at the money
+
+that they could
+make in subcompacts
+
+with the profitability
+that they could
+
+making bigger SUVs and
+bigger pickup trucks
+
+to even bigger people.
+
+It absolutely made
+no sense to defend
+
+the low end of the business,
+when they had the opportunity
+
+to make good products better.
+
+Who's killing Toyota?
+
+They don't feel like they're
+getting killed, incidentally.
+
+AUDIENCE: It's
+probably [INAUDIBLE].
+
+CLAYTON CHRISTENSEN:
+Yeah, the Koreans are just
+
+killing them at the low end.
+
+And Toyota is doing
+the right thing.
+
+Because why would they
+ever try to defend
+
+the low end of
+their business when
+
+they have the privilege of
+competing against Mercedes
+
+at the high end?
+
+And then, the Chinese
+manufacturers are coming next.
+
+And we seriously don't
+need to worry about them.
+
+[LAUGHTER]
+
+
+
+And one of the reasons
+why this is so hard
+
+is that what is coming
+out in this dimension,
+
+in the third dimension,
+is that it competes
+
+against non-consumption.
+
+
+
+Because the products are so
+costly and expensive that
+
+behind them there
+are no customers.
+
+They are potential
+customers, but if you make
+
+it affordable and accessible.
+
+And so, looking
+at their world, it
+
+looks as if they're
+doing just fine.
+
+And it's why, almost
+always, you have
+
+to have a new company
+with new people
+
+who are looking in
+the other direction.
+
+Because you're competing against
+non-consumption by making
+
+it affordable and accessible.
+
+And that's why growth
+comes in this dimension.
+
+And almost always we find--
+
+AUDIENCE: Huh.
+
+So I guess, do you have
+examples of companies
+
+that have successfully
+taken advantage
+
+of this notion of disruption
+where they themselves
+
+[INAUDIBLE], within their
+own company, that disruption
+
+to take place?
+
+CLAYTON CHRISTENSEN: Yeah,
+it's a great question.
+
+It turns out that
+there really are
+
+a few who have done that,
+where they were the leaders
+
+and, then, they became
+the leader in the new wave
+
+without getting
+killed in the old one.
+
+But only a few.
+
+And in every case,
+they succeeded
+
+by setting up a completely
+independent business unit
+
+and gave it able to create
+a different profit formula
+
+and develop different processes.
+
+So as a good example, IBM
+just dominated the mainframe
+
+business.
+
+But there were eight companies
+that made mainframe computers.
+
+The other seven all got
+killed when the mini-computer
+
+came in underneath.
+
+But IBM succeeded
+by setting up-- they
+
+made their mainframes in
+Poughkeepsie, New York.
+
+And they made their
+mini-computers
+
+in Rochester, Minnesota.
+
+And there were nine companies
+that made mini-computers.
+
+Only one of them,
+IBM, succeeded.
+
+And they did it by setting
+up a different business
+
+unit in Florida and
+made them figure out
+
+how to make products at
+25% gross margins, instead
+
+of 40% or 60%.
+
+
+
+Hewlett-Packard did it once
+when the laser printer got
+
+disrupted by inkjet printer.
+
+And they set up the ink
+jet separately in Vancouver
+
+and had their own sales force.
+
+And they did very well.
+
+But both of those companies
+are in deep trouble now.
+
+Because they haven't
+continued to follow
+
+that of launching disruptive
+innovations and keeping
+
+it separate.
+
+So we've had three
+types of innovations,
+
+potential innovations, which
+we understand by understanding
+
+the job to be done; sustaining
+innovations make good products
+
+better; efficiency innovations
+helps us to do more with less.
+
+The role that they
+have in growth
+
+is that they keep
+us competitive,
+
+but they reduce jobs.
+
+But they do create
+free cash flow.
+
+And so Wal-Mart is an
+efficiency innovation.
+
+The Toyota production system
+is an efficiency innovation.
+
+And again, they're important.
+
+Because if we're not
+getting more efficient,
+
+otherwise we'd get killed
+sooner rather than later.
+
+So this is a view of
+where growth comes from.
+
+So the first step is we've
+got to understand the job
+
+and develop a product
+that does the job well.
+
+And essentially, what
+that does is it puts us
+
+in the center of the market.
+
+And then, disruptive
+innovations make
+
+products better and accessible.
+
+So they create growth.
+
+Sustaining innovations
+make good products better.
+
+And efficiency innovations
+allow us to make more with less.
+
+And that's a manager's view
+of where growth comes from.
+
+Now, why are we not
+able to keep the growth?
+
+
+
+And I put the problem at
+the feet of finance people
+
+who are taught finance
+at places like Harvard.
+
+So there are two elements
+that are quite important.
+
+One is a doctrine that they
+teach in finance that we
+
+call abundance and scarcity.
+
+Now, what that means is, if
+I've taken a order from you,
+
+in order to deliver what
+I tell you I will offer,
+
+I have to array the
+inputs required.
+
+And some of the inputs
+will be costly and scarce,
+
+like platinum.
+
+And you've got to be
+really careful about how
+
+you use platinum.
+
+And others are abundant
+and cheap, like sand.
+
+And I can waste sand.
+
+So we have to take
+care of what's costly.
+
+And we can waste
+what's abundant.
+
+And you'll see in
+finance, historically,
+
+we needed to carefully
+husband the use of capital,
+
+because capital was
+costly and scarce.
+
+But now it's abundant and cheap.
+
+And the world has
+really changed on us.
+
+
+
+The second element that
+finance brought to us is they
+
+decided that we should measure
+our success using ratios
+
+rather than whole numbers.
+
+Now, when I studied
+finance in the 1970s,
+
+we were taught finance
+by whole numbers,
+
+like millions of
+dollars or tons of cash.
+
+But starting in the mid
+1980s, shortly after,
+
+Dan [? Dricklan ?]
+developed the spreadsheet,
+
+the analysts who grabbed
+a hold of the spreadsheet
+
+started to be bothered
+that, as analysts, they
+
+wanted to be able to compare
+Cisco with Sun Microsystems.
+
+And they're different companies.
+
+And so, if I compare
+them with whole numbers,
+
+I couldn't make much sense.
+
+But what they realized is
+if they measured success
+
+by ratios, then you could
+compare two companies
+
+that are not comparable.
+
+So if they want to
+compare you with Microsoft
+
+in whole numbers,
+it makes no sense.
+
+But in fractions, then it
+commoditizes everything
+
+around the denominator.
+
+So fractions-- I got back
+to my fifth grade math.
+
+A ratio is a fraction.
+
+It has the numerator
+and a denominator.
+
+And so, if I want to grow,
+there are metrics that we used.
+
+And one is return on
+net assets or RONA.
+
+And another one is internal
+rate of return, IRR.
+
+And these are fractions.
+
+So if I'm the manager and
+I want to get RONA up,
+
+sure, I could be more profitable
+by being more innovative
+
+and put the profit on the
+numerator of the ratio.
+
+But holy cow, if that's hard,
+the denominator is assets.
+
+And I just have to outsource
+everything to get assets off
+
+of the denominator.
+
+But either way,
+improving the numerator
+
+or decreasing the
+denominator, RONA goes up.
+
+And it turns out
+that it is easier
+
+to outsource than it
+is to make more profit.
+
+And so, in the pursuit
+of RONA, we just
+
+outsource more
+and more and more.
+
+And then, internal rate
+of return is a ratio.
+
+The numerator is profit.
+
+The denominator is, how
+quickly do I get my money out
+
+after I put my money in?
+
+And either way, the
+internal rate of return
+
+improves by doing the
+numerator or the denominator.
+
+And because profit is harder
+to achieve than to only invest
+
+in things that pay
+off in the short-term,
+
+more and more companies
+are investing only
+
+in short-term payoff
+projects, because that's
+
+the way they get IRR up.
+
+And so, what's happening
+to us as a nation--
+
+and I think you
+guys temporarily are
+
+doing a good job-- is we're
+losing our growth because
+
+of what finance taught us to do.
+
+So just imagine that I'm making
+a really good job at efficiency
+
+innovations.
+
+And that creates free cash flow.
+
+And we have so much cash that we
+have to ask analysts to tell us
+
+where we should put our money.
+
+So the analysts will look
+at that disruptive history.
+
+And they say, we
+ought to use our money
+
+to create disruptive companies.
+
+But the problem is, if we
+invest in disruptive companies,
+
+they pay off in
+five to 10 years.
+
+And so internal rate
+of return will tank.
+
+
+
+And if we start to create
+disruptive companies,
+
+we'll have to put assets back
+onto their balance sheet.
+
+On the other hand,
+if we use our money
+
+to do another round of
+efficiency innovations,
+
+they pay off in six
+months to three years.
+
+There is no risk.
+
+The market is there.
+
+It creates free cash flow.
+
+So if you wouldn't mind just
+this once, what I'd like to do
+
+is use our money to do
+another round of efficiency
+
+innovations.
+
+And I do that.
+
+And the problem is, we
+have more free cash flow.
+
+And we've got to
+figure out, what
+
+do we do with all of this stuff?
+
+So can we look at
+the analyst, say,
+
+just take another deeper look
+at disruptive innovations.
+
+And so, he does.
+
+And he said, the problems
+are just the same.
+
+If we invest to create
+disruptive products,
+
+they pay off in five to 10 years
+and IRRs are going to go down.
+
+And RONA goes down,
+because it needs assets.
+
+So if you wouldn't
+mind, I'd like
+
+to just use our money
+just one more time
+
+to do another round of
+efficiency innovations.
+
+And the problem is, it
+creates more capital.
+
+What are we going to do
+with all this capital?
+
+My gosh!
+
+And so, I just do it
+again and again and again.
+
+And that's what's
+happened in our economies
+
+in Japan and Europe and,
+increasingly, in North America.
+
+Because we have chosen
+to measure success
+
+with these ratios, our analysts
+grab that free cash flow
+
+and use it to create
+more free cash flow.
+
+And if you want to know what's
+going to happen to America,
+
+just look at Japan.
+
+Because in the '60s, '70s,
+and most of the '80s,
+
+Japan's economy was growing
+at unprecedented rates.
+
+And the reason why
+they were growing
+
+was because they had
+companies in that economy that
+
+kept investing in
+disruptive innovations.
+
+So Toyota made cars
+affordable for mankind.
+
+Honda made motorcycles
+affordable for mankind.
+
+Sony made a 10-transistor pocket
+radio that allowed teenagers
+
+to listen to rock-and-roll.
+
+And the reason why
+you guys have printers
+
+in your offices and your homes
+is that Canon disrupted Xerox.
+
+But because they made things
+affordable and accessible,
+
+billions of people
+around the world
+
+were able to own and use
+things that historically
+
+had been beyond their reach.
+
+And that forced these companies
+to make more products.
+
+And that meant that they
+had to hire more people
+
+to make them and distribute them
+and sell them and service them.
+
+And for 30 years, they had
+no economic recessions.
+
+They had no unemployment,
+because they
+
+were going after people
+who were competing
+
+against non-consumption.
+
+And in the late 1980s,
+the analysts in Japan
+
+started to measure their
+success as gross margins
+
+and net present values and
+internal rates of return.
+
+And since 1990, in
+Japan, they have not yet
+
+generated a single new
+disruptive innovation.
+
+And their economy
+just went "ppt."
+
+It's been flat-lined
+for 25 years.
+
+And they have
+capital everywhere.
+
+And the cost of
+capital is nearly $0.
+
+And yet, they can't grow,
+because of the metrics
+
+that they have chosen.
+
+And that's what I worry a
+lot for the United States.
+
+Increasingly, the
+financial analysts
+
+are causing us to use our
+capital to create capital.
+
+And the cost of
+capital is nearly $0.
+
+And yet, most companies aren't
+organized to invest to grow.
+
+And you guys are doing
+a good job temporarily.
+
+[LAUGHTER]
+
+Anyway, those are just
+a few of the thoughts
+
+that we have about
+where growth comes from
+
+and how to deal with it.
+
+AUDIENCE: So for a
+company like Google,
+
+what metrics would you
+suggest to break out
+
+of this vicious cycle?
+
+CLAYTON CHRISTENSEN:
+Well, there is no metric
+
+that any analyst has developed
+or is motivated to develop.
+
+So there are analysts,
+like Moody's and S&P--
+
+any indicator that they
+have is very short-term.
+
+They have their metrics about
+this year and next year.
+
+But that's it.
+
+And we don't have a metric
+that will allow an analyst
+
+to say, for this company,
+10 years from now,
+
+they are going to
+be in great shape.
+
+Because these are the products
+that they have in the pipeline.
+
+And so, you guys have
+to develop your own.
+
+It turns out that God didn't
+tell us to use those metrics.
+
+Somebody decided to
+use those metrics.
+
+But it wasn't God who told us.
+
+And so, we ought to
+then say to those--
+
+whoever it was that told us
+the metrics-- screw you guys.
+
+Here's the metric by which
+we want to be analyzed.
+
+It's a great question.
+
+Yes?
+
+AUDIENCE: So you opened talking
+about how the labor force takes
+
+a long time to
+come back and it's
+
+because people are investing
+in the things that give you
+
+more capital efficiencies.
+
+And one of the ones that
+I think is the bigger
+
+investment that you
+see here at Google
+
+is artificial intelligence.
+
+So if you look at
+humanity as a job
+
+to be done, before the
+Industrial Revolution
+
+you had to get
+things built or made.
+
+And human muscles were
+a good way to do that.
+
+And this decade, we're
+looking at, the job to be done
+
+is people need to think about
+things and solve problems.
+
+And human brains are
+pretty good at that.
+
+But now, AI is coming.
+
+It's cheaper.
+
+It's more scalable.
+
+What are going to be
+the jobs that humans can
+
+do after this AI revolution.
+
+CLAYTON CHRISTENSEN: Yeah,
+that's a great question.
+
+So these are just
+a couple of things
+
+that I worry about
+in that initiative.
+
+So we might think, by
+analogy, a driverless car
+
+as a technology is a
+complicated problem.
+
+If we are targeting
+the California freeway
+
+as the application
+for a driverless car,
+
+that is a very
+complicated application.
+
+And there are all kinds of
+legal issues that are just--
+
+and the technology needs
+to be pretty sophisticated.
+
+And maybe that'll happen.
+
+Maybe it won't.
+
+But we don't think
+about, if we change
+
+this, what are all of
+the other things that
+
+need to change in order
+to enable this technology
+
+to develop?
+
+And so, our theory says
+that where you ought to look
+
+is on a farm.
+
+And John Deere has wireless
+tractors going up and down.
+
+And the application
+is very simple.
+
+And almost always,
+when you try to make
+
+it affordable and
+accessible, you
+
+start with very
+simple applications
+
+and then, little by
+little, do that on.
+
+But competing with
+non-consumption
+
+is really critical.
+
+And so, AI-- what
+I worry about is,
+
+although we think
+that it will make
+
+us be able to be better
+thinkers at lower cost,
+
+I worry that the
+applications of these
+
+are actually quite complicated.
+
+And that we don't
+think about, what
+
+are all of the other things
+that have to occur in order to
+
+for our piece to make it?
+
+And so, it could be a big thing.
+
+But I'd bet that,
+in the process,
+
+we'll realize that we should
+go after simple applications.
+
+And that typically forces
+us to hire more people.
+
+But it's a good one.
+
+Because whether you call
+it an efficiency innovation
+
+or a disruptive innovation
+makes a big differences
+
+as to the outcome.
+
+Thanks.
+
+AUDIENCE: I just want to
+say, thanks for coming.
+
+Reading your book was actually
+one of the reasons I did my MBA
+
+and ended up here.
+
+CLAYTON CHRISTENSEN: Oh geez.
+
+AUDIENCE: So you had a pretty
+tangible effect on my life.
+
+But--
+
+CLAYTON CHRISTENSEN:
+Oh, you're kind.
+
+AUDIENCE: So I want to see
+if you could help clarify
+
+the way that we talk
+about disruption in regard
+
+to the technology itself.
+
+And we have a couple of
+technologies at Google
+
+that could be considered--
+that are often
+
+called disruptive technologies,
+artificial intelligence,
+
+machine learning, which is very
+much being built internally
+
+to the organization.
+
+It's helping improve
+what we do as a company
+
+and could be seen as a
+sustaining innovation.
+
+And then, we have
+autonomous cars,
+
+which are being treated--
+built at X, external-- much
+
+more in line with
+the disruptive model.
+
+So is it the technology
+that's a disruption?
+
+Or is it the application
+of the technology?
+
+Is it the market effect
+that makes it disruptive?
+
+What is it disruptive to?
+
+CLAYTON CHRISTENSEN: Yeah,
+that's a great question.
+
+It's actually really
+important for you
+
+to say what you just said.
+
+Because in many ways, I made a
+mistake calling the phenomena
+
+disruptive disruptive.
+
+Because there are so many
+connotations of the word
+
+disruptive in the
+English language.
+
+And so, there are
+a lot of people
+
+who call anything that
+is a dramatic improvement
+
+or a breakthrough--
+we call it disruptive.
+
+And that's not true.
+
+So almost always, disruption
+is built within the business
+
+model of the enterprise, not by
+developing the best technology.
+
+Because typically, you
+can take a technology
+
+and deploy it onto
+the California freeway
+
+or on a corn field in Iowa.
+
+And how you deploy it
+determines it's disruptiveness.
+
+And that's really an
+important one to do.
+
+And people say that I'm a
+Jewish mother of business
+
+in that I'm always
+worried about everything.
+
+But I worry about you guys.
+
+Because I think
+that you are very
+
+good at developing potentially
+disruptive innovations.
+
+But I don't think
+you worry nearly
+
+enough about the
+business models that you
+
+have to build that
+would then take
+
+your technology into an
+application that competes
+
+against non-consumption.
+
+
+
+And I think that's a
+very important concept.
+
+And I don't think I'm
+totally wrong about that.
+
+AUDIENCE: So I also want to
+start by praising your book.
+
+I think it's the best
+book I've ever read.
+
+And it's hard to think of
+something else that has
+
+impacted how I think as much.
+
+But--
+
+CLAYTON CHRISTENSEN:
+You're kind.
+
+You have low standards, but--
+
+[LAUGHTER]
+
+AUDIENCE: You think so?
+
+Well, here comes the but.
+
+So I've been wondering
+this for a little while.
+
+But how do you explain
+certain products
+
+that have transformed industries
+and up-ended incumbents
+
+but don't fit into the
+framework of low-end disruption?
+
+So off the top of my
+head, Uber, iPhone, Tesla,
+
+all started from the
+very, very highest end
+
+of the market and trickle
+downwards from there.
+
+CLAYTON CHRISTENSEN: Yeah.
+
+Well, let's take them one at
+a time, because those are all
+
+really good examples.
+
+So the theory would
+say that Tesla is
+
+a sustaining innovation, right?
+
+So they come in at the
+high end of the market.
+
+And they're deploying it in
+a very demanding application,
+
+which is the California freeway.
+
+And what the theory
+says is that they
+
+might be able to
+develop the product that
+
+is the best in the world.
+
+But if they go after the
+best customers of the leaders
+
+up there, these guys are going
+to harness whatever they can.
+
+And they will do their
+best to knock them out.
+
+Or they will acquire them.
+
+So in a lot of ways, you
+could think of disruption
+
+as a theory of
+competitive response.
+
+If I do this, what will
+the competitors do?
+
+And when Toyota came in
+with the simple product,
+
+the theory predicts that
+Detroit will just ignore them.
+
+And so, what's
+happened is, yes, Tesla
+
+is the best with
+the best product.
+
+But Porsche has spent
+$1 billion dollars.
+
+And they have a completely
+electric car now.
+
+And you can just smell
+BMW all around them.
+
+And so, the theory
+might be wrong.
+
+But the theory would say that
+these other guys are either
+
+going to kill Tesla
+or acquire them.
+
+And that's what it would be.
+
+But just like a $100,000 Porsche
+has not transformed the world,
+
+a electric car at that
+price point actually won't.
+
+And that's what the theory says.
+
+And Christine and I were
+in Beijing four weeks ago,
+
+walking down the road.
+
+And here is this electric
+car that was as wide as me.
+
+And if I had a passenger I
+had to fold her up and put it
+
+in the boot.
+
+And it cost $2,500.
+
+And that's where I think the
+transforming technology will
+
+come from.
+
+
+
+Apple-- there are a
+couple of answers to that.
+
+But what allowed
+them to survive when
+
+they came in at the high end
+of the wireless phone market,
+
+is they came in to
+disrupt the laptop.
+
+And they have
+disrupted the laptop.
+
+And that's why they
+have succeeded.
+
+If they had stayed
+and simply tried
+
+to compete against BlackBerry--
+they had the benefit
+
+for a while of-- the BlackBerry
+had an architecture that was
+
+excruciatingly interdependent.
+
+And so, you couldn't
+develop apps for it.
+
+And then, Apple came
+up with-- internally,
+
+it's interdependent.
+
+But there was a standard port,
+so apps could be developed.
+
+And that blew BlackBerry
+out of the water.
+
+But then, the Android operating
+system and Huawei and Samsung
+
+are just killing Apple.
+
+Because they're being disruptive
+in the conventional way.
+
+So on average, I think we can
+understand why it's happening.
+
+But sometimes, it takes a few
+years rather than a few months.
+
+AUDIENCE: So what about Uber?
+
+CLAYTON CHRISTENSEN: Yeah.
+
+AUDIENCE: The incumbent's
+not going to acquire Uber.
+
+CLAYTON CHRISTENSEN:
+That's right.
+
+And it taught me a lot
+about the theory with Uber.
+
+So it is true.
+
+Well, first, they
+came up and they
+
+disrupted the black sedans.
+
+And that's unambiguous.
+
+But then, they came
+down and they're
+
+making a better
+product than the taxis
+
+at roughly the same price.
+
+And they've blown
+them out of the water.
+
+They didn't come
+in at the bottom.
+
+And what we realized
+is that there
+
+is a correlation
+between their coming
+
+at the bottom of the market and
+being successful as disruptors.
+
+But the reason why that's
+correlative not causal
+
+is, you look at the
+business model of Uber,
+
+and the taxi is very
+asset intensive.
+
+They own the car
+and the medallion.
+
+And their costs are
+fixed cost intensive.
+
+And they just had to have
+these taxis on the road 24/7
+
+in order to make money.
+
+And the Uber business model
+is they have no assets.
+
+And their costs are all
+variable, not fixed.
+
+And the taxis actually just
+can't get there from here.
+
+And so, in our
+thinking, we've decided
+
+that we don't want to say they
+always start at the low end.
+
+But they have to
+develop a business model
+
+where the incumbents just
+can't get there from here.
+
+And that's what
+makes it disruptive.
+
+So I learned a lot from that.
+
+AUDIENCE: Thank you.
+
+CLAYTON CHRISTENSEN:
+You're welcome.
+
+Thank you.
+
+MATT: All right, I'm going
+to read one from the Dory.
+
+What did you notice in your own
+life or the world around you
+
+that inspired you to write "How
+will you Measure your Life?"
+
+And how can companies
+and institutions
+
+help their employees approach
+measuring their lives
+
+in a better way?
+
+CLAYTON CHRISTENSEN: Wow.
+
+Thank you for your question.
+
+We're hitting at 3 o'clock.
+
+So can I answer this one?
+
+And for you guys, can
+we just talk afterwards.
+
+I'm sorry to do that to you.
+
+AUDIENCE: Yeah, sounds good.
+
+CLAYTON CHRISTENSEN:
+So why we wrote
+
+this book about how
+you measure your life
+
+is just I described here how
+the metrics that they were using
+
+caused them to spend their
+time and energy in developing--
+
+they did not intend to do
+what they actually did.
+
+And what I realized
+is why they so
+
+invested in things
+that cause them to fail
+
+wasn't that they were stupid.
+
+But the resource
+allocation process--
+
+the metrics caused them to
+put their money in a direction
+
+that they did not
+intend to pursue.
+
+So anyway, where I worked at
+the Harvard Business School,
+
+the core competence of the
+Harvard Business School
+
+is we are really good at soaking
+our alumni for donations.
+
+[LAUGHTER]
+
+
+
+And so, every five
+years, we invite
+
+all of our alumni to come back.
+
+And we remember them to
+please bring their wallets.
+
+And we're really good at this.
+
+So because Christine and
+I have lived in Boston
+
+ever since I
+graduated, we've gone
+
+to all of these 5,
+10, 15-year reunions.
+
+And I remember when we came
+back for our fifth reunion.
+
+Oh my gosh!
+
+Most of my friends
+had married people
+
+who were much better looking
+than my friends were.
+
+They had kids that
+were well-behaved.
+
+And their jobs were going well.
+
+And just everything that
+we imagined would be true
+
+was unfolding as we thought.
+
+But then, I noticed
+for the 10th reunion,
+
+gosh, a lot of people who I
+was looking forward to seeing
+
+didn't show up.
+
+And when I asked common
+friends, where is so-and-so?
+
+More often than I ever
+imagined the answer
+
+was that he's in the
+middle of an awful divorce
+
+and he just doesn't
+want to talk about it.
+
+And for the 15th reunion,
+there were even fewer people.
+
+And when I'd ask about
+them, more often it
+
+was not, it's he's in an
+awful divorce or their spouse
+
+remarried and now they're
+raising their children
+
+on the other side
+of the country.
+
+And they just don't want to
+talk to anybody about what life
+
+had turned out the wrong way.
+
+And then, by the 20th
+and the 25th reunions,
+
+it was really scary.
+
+And it was the same problem.
+
+I can tell you with
+perfect certainty
+
+that not a single
+one of my classmates
+
+when we graduated
+from Harvard planned
+
+to go out and raise
+children who hate their guts
+
+and get divorced one
+or two or three times.
+
+Our intention was to
+create homes where
+
+there was happiness there.
+
+And it was a source of happiness
+for the rest of our lives.
+
+But that was what
+we intend to do.
+
+And how we spent
+our time and energy
+
+was just the opposite of that.
+
+And the reason why is
+the very same thing.
+
+It's the metrics.
+
+So those of us who are
+driven to achievement--
+
+that includes at
+least 100% of us--
+
+when we have that
+need for achievement,
+
+then, when we have an
+extra 30 minutes of time
+
+or an ounce of energy,
+we instinctively
+
+spend our time and energy
+on whatever activities
+
+will give us the most
+immediate and tangible evidence
+
+of achievement.
+
+And our careers provide that.
+
+So every day at work, I ship
+a product, I finish a project,
+
+I get promoted, I get paid,
+we close another deal.
+
+And every day, I get immediate
+and tangible evidence
+
+of achievement at work.
+
+And then, when I walk
+into the front door,
+
+there's not a lot of
+evidence of achievement
+
+when you look at your kids.
+
+On a day-to-day basis,
+they misbehave every day.
+
+The place gets
+cluttered every day.
+
+And it really is not
+until 20 years down
+
+the road when you're
+able to look at your kids
+
+and put your hands on your
+hips and say, my gosh,
+
+we created a wonderful
+young man or woman.
+
+But on the day-to-day basis,
+there's no evidence of that.
+
+And as a result of that, we
+invest our time and energy
+
+in our careers and
+under-invest in our children
+
+and our spouses,
+even though we plan
+
+to have that be the
+source of energy.
+
+And so, that's why I decided
+I would write that book, "How
+
+Will You Measure Your Life?"
+
+Anyway--
+
+[APPLAUSE]
+
+
+

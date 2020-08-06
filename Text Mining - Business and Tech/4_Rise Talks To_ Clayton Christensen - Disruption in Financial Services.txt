@@ -1,0 +1,704 @@
+welcome to rise we are a global
+
+community of thinkers and doers working
+
+together with Barclays to create the
+
+future of financial services we have
+
+communities all over the world including
+
+here in New York as well as in London
+
+Manchester and Cape Town and we are
+
+excited to soon be launching in Tel Aviv
+
+Vilnius and Mumbai in each of these
+
+communities we are working to connect
+
+co-create and scale with some of the
+
+world's most inspiring individuals today
+
+we have the opportunity to sit down with
+
+Professor Clayton Christensen of the
+
+Harvard Business School
+
+Clayton is the New York Times
+
+bestselling author of several books
+
+including the innovators dilemma which
+
+first introduced the theory of
+
+disruptive innovation more than 20 years
+
+ago since that time Clayton's theories
+
+and strategies have been utilized by
+
+some of the world's most notable
+
+companies to build their businesses
+
+including Tata Procter and Gamble and
+
+Intel Forbes and The Economist have
+
+rated Clayton as one of the world's most
+
+influential thinkers of our time it is
+
+our great pleasure to sit down with
+
+Clayton today and discuss the future of
+
+financial services and the disruption
+
+that is coming to our industry
+
+clay welcome to rise New York so I
+
+didn't be here things it's great it's
+
+great to have you here and I we really
+
+appreciate you taking the time today to
+
+visit with a number of our Barclays
+
+colleagues as well as other thought
+
+leaders here in in the FinTech
+
+innovation space in New York obviously
+
+disruption in financial services is a
+
+major topic at the moment and to start
+
+off would you give us your view of what
+
+disruption means and how it's being
+
+applied to financial services disruption
+
+occurs when an innovating company
+
+develops a product that is simpler and
+
+more affordable than the prior products
+
+or services in the marketplace and this
+
+allows you to bring in populations of
+
+people who previously didn't have the
+
+money or the skill to participate in the
+
+market now they can and so disruptive
+
+innovations creates growth by enabling
+
+more people to do things that previously
+
+were in the realm of just the rich then
+
+we call it disruptive because when this
+
+occurs at this at the simple end of the
+
+market the incumbent leaders find it
+
+unattractive to go after them because
+
+given the business model of the
+
+incumbent they want to make better
+
+products that they could sell for better
+
+profits to their best customers
+
+and when they look down it makes no
+
+sense to go down there are a number of
+
+new entrants into financial services
+
+right we see Facebook Alibaba Amazon
+
+Google and we also see a number of small
+
+fin tech startups thousands really last
+
+year there were more than 13,000 new fin
+
+tech companies around the globe some are
+
+becoming billion-dollar companies a lot
+
+of the banks and big financial services
+
+companies can't understand what the
+
+relevance is of what's happening in this
+
+market how they they should address
+
+these these competitors so in order to
+
+give a good answer I need to just
+
+define a couple of concepts so in this
+
+process of providing a service to a
+
+client or in the Silicon Valley they
+
+take this process of a set of steps and
+
+they put it vertical and they call it a
+
+stack okay well each step or each layer
+
+in the stack there has to be a way they
+
+interface with the adjacent players in
+
+the stack and one way you could do it is
+
+in an interdependent way and in an
+
+interdependent connection if you change
+
+one thing you have to change many other
+
+things they're all interdependent that's
+
+right and so it is very secure it's very
+
+private
+
+but innovation can't happen very rapidly
+
+there because again you change one thing
+
+you've got to change everything and you
+
+have to be integrated you have to make
+
+both sides of it in order to make the
+
+interface work the other way to define
+
+how things fit together this interface
+
+is modular and that is we agree in
+
+advance what each of us has to look like
+
+so that when we put it together it just
+
+works API is being the example right
+
+yeah that's right so you don't have to
+
+be integrated and a modular interface
+
+can it makes is fast you can change one
+
+thing without changing everything and so
+
+innovation accelerates okay right and so
+
+it's it's a paradox to some degree
+
+because in a modular world it's fast but
+
+you can't differentiate your products
+
+from others because people can just copy
+
+you so it's fast you don't make much
+
+money and an interface an interdependent
+
+interface you make money but it's slow
+
+now historically my sense
+
+is that in a bank you have the back end
+
+of a bank where you do all of the
+
+functional things that just have to
+
+happen yeah it has to be there and it's
+
+heavily regulated yes and then there are
+
+business units in a bank that provide
+
+various services or products and
+
+historically the in the connection
+
+between the services and the back end is
+
+an interdependent connection meaning it
+
+makes things slow right but that's where
+
+you make money and then at the next
+
+interface between the people that
+
+provide the services and the customers
+
+historically that has been in an open
+
+modular interface so the customers have
+
+to conform themselves to standards that
+
+the bank sets right right and there are
+
+good things about them the bad thing is
+
+with the standard interface the clients
+
+can leave because they know how to plug
+
+themselves into lots of other banks too
+
+you know right and I think what's
+
+happening now is that new companies
+
+offering services interact with the back
+
+end by buying a bank and Google has done
+
+this there's one in Salt Lake City
+
+called web Bank there's another one it's
+
+called the Bank Corporation you know all
+
+building api's for banking basically
+
+right that's right yeah that modular
+
+component that's right and it's a
+
+modular component so the service
+
+provider can optimize what they're doing
+
+and it plugs into the backend and then
+
+the interface with the customer is
+
+interdependent and proprietary so find
+
+the Lending Club I loan you some money
+
+and a small amount but I'm going to
+
+watch how well you Eddie it how do you
+
+manage that money and do you pay him
+
+back on time and just like an uber you
+
+get five stars if they did a good job
+
+they rate each other the provider right
+
+and the customer and how well is he
+
+doing and if you get a five along you
+
+more money next time you know and yes
+
+and so the interface between you and me
+
+the provider becomes very proprietary
+
+yes it's just the interface is you you
+
+and I yes and it's very hard for you to
+
+leave correct because because you've got
+
+the relationship with that go with that
+
+customer right right right but the back
+
+end is somewhat irrelevant to the
+
+customer isn't it that's right
+
+that's right it just needs to be a
+
+module that's right and so regulation
+
+happens there on the back end because
+
+that is regulated but you know by the
+
+laws interface there means that the
+
+people who are providing the services
+
+are able to innovate without regulation
+
+right and barclays just have to has has
+
+to be sure that they play where it the
+
+interface the interdependent interface
+
+is between them and the customer they
+
+want to own that customer but they don't
+
+necessarily need to be all of the
+
+modules that's right and so does this
+
+lead us to a model where a bank becomes
+
+a platform that startups could create
+
+new enterprises on top of but then they
+
+layer into the customer through the bank
+
+that's right so the bank continues to
+
+own the customer but the startups create
+
+products that bolt on to the modules the
+
+bank is created yeah that's interesting
+
+and do you think that large financial
+
+services companies like Barclays as an
+
+example can do this from with inside
+
+their business can they disrupt
+
+themselves internally no and the problem
+
+is that disruption begins before the
+
+core business is
+
+a lien okay and so if you try to address
+
+the disruptive innovator from within the
+
+core business it'll screw up a beautiful
+
+business right yeah and yet if you wait
+
+until the disruption is has progressed
+
+and now the core business is ailing then
+
+the game is over and that's why you have
+
+to do the new one in parallel in
+
+parallel with the old one not in series
+
+now why why do big companies typically
+
+fight against that model because you
+
+don't see a lot of big financial
+
+services companies creating brand-new
+
+business units yeah they're trying to
+
+disrupt themselves from inside of their
+
+business right what is it that works
+
+against that model accounting because in
+
+accounting you can measure the cost of
+
+replicating all of the administrative
+
+overhead in two different organizations
+
+if you put them together you you
+
+economize on those overhead
+
+administrative costs right but what
+
+accounting cannot account for is when
+
+you put those two things together it
+
+slows the innovation down to a turtle
+
+base almost you know and and you and you
+
+because you're slow you don't grow and
+
+the loss of growth and the slowness of
+
+administrative consolidation the
+
+accountants can't account for that yes
+
+and so what they give you is a very
+
+skewed view of what's best for the
+
+company right so from a rational
+
+perspective it doesn't necessarily make
+
+sense to create a new business unit
+
+because the metrics that you're using to
+
+measure success on the other sides of
+
+your business
+
+don't measure up that's right going back
+
+to this idea of modular business
+
+structures let's just say
+
+there are a lot of companies that are
+
+creating accelerators programs for open
+
+innovation where do these initiatives
+
+fail and how can they succeed I view
+
+what you're doing here is a research
+
+facility you know and so you develop and
+
+you type technology or a new business
+
+idea if you then think that the core
+
+business we ought to give these new
+
+ideas to the core business to deploy
+
+they either will kill it or that they
+
+will read it will formulate it so that
+
+fits their business model okay and so to
+
+think that doing this somehow
+
+regenerates the business model is just a
+
+non sequitur it was not designed to
+
+change the business models designed to
+
+do one thing very well and so in order
+
+for this to work the people at the
+
+highest level not in business units but
+
+at the corporate level need to be in
+
+very good touch with what's going on
+
+here and when they see that when they
+
+say they know there's a job needing to
+
+be done it's going to work we will set
+
+up a new business unit around that
+
+business idea and we'll create new
+
+business units and so the corporation
+
+can change in significant ways by
+
+creating new business units but they
+
+can't change by trying to change the old
+
+one it was designed it was designed not
+
+to change interesting yeah it's
+
+definitely true we see antibodies in
+
+this organ in an organism that reject
+
+new things naturally because they're
+
+designed to protect and preserve and
+
+grow the previous businesses and when we
+
+look at the current market and the way
+
+that executives who have to lead these
+
+very big companies in financial services
+
+through these challenging times the
+
+natural response by many is to conserve
+
+capital to invest in
+
+efficiency innovation that takes cost
+
+out of certain processes
+
+what would the innovators dilemma teach
+
+us about the short-term and long-term
+
+gains of that strategy when the business
+
+unit starts up the data that you use to
+
+navigate yourself is data about the
+
+context in which the job to be done
+
+emerges and the data about that first
+
+stage is passive data its data about the
+
+context and the job to be done
+
+there's no data about customers or
+
+competitors or products and then in the
+
+second stage where you're in making good
+
+products better there the data is all
+
+about revenues and competitors and
+
+customers and features and distribution
+
+and it is so strong that data that you
+
+start to think that this the structure
+
+of the world is organized by products
+
+rather than job to be done yes because
+
+again the job to be done
+
+doesn't broadcast at high fidelity data
+
+about the job and so for the manager
+
+they're just world up into another world
+
+of data about the products and customers
+
+and markets and then has that product
+
+becomes mature and innovation has to be
+
+efficiency innovations there the
+
+language becomes the language of numbers
+
+and the data that you're looking for is
+
+return on investment
+
+Rhona IRR and and those are the right
+
+metrics for that era and the managers
+
+who run that business have a language of
+
+numbers so in each of these three realms
+
+the language that they use is different
+
+and the metrics that you use to measure
+
+success
+
+and what kill kills you I mean there are
+
+a lot of things that killed us but one
+
+of the most important ones is that the
+
+people who are in the mature parts of
+
+the business where the metrics are again
+
+Rhona IRR at MPV which are the right
+
+measures there when they try to impose
+
+that on new companies that are emerging
+
+where the data needs to be about the
+
+context it just kills it
+
+and it's actually quite hard for the
+
+people on top to say oh this business is
+
+one of these and therefore I'm going to
+
+put in an app in my brain which is this
+
+is the way you measure success you know
+
+and then the next is one of those that
+
+take that app and put that in and I will
+
+speak the language of that one that is
+
+rare they have to be not bilingual but
+
+try doing lingual they're interesting
+
+great well thank you very much for your
+
+time and we look forward to welcoming
+
+you back to rise New York Thanks so if I
+
+can come back all right
+
